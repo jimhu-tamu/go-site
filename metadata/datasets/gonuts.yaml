@@ -9,14 +9,14 @@ email_report: "ecoliwiki@gmail.com"
 datasets:
  -
    id: gonuts.gaf
-   label: "gonuts gaf file"
-   description: "gaf file for gonuts from Gene Ontology Normal Usage Tracking System (GONUTS)"
+   label: "gonuts gpad file"
+   description: "gpad file for CACAO annotations from Gene Ontology Normal Usage Tracking System (GONUTS)."
    url: http://current.geneontology.org/annotations/gonuts.gaf.gz
-   type: gaf
+   type: gpad
    dataset: gonuts
    submitter: gonuts
    compression: gzip
-   source: http://viewvc.geneontology.org/viewvc/GO-SVN/trunk/gene-associations/submission/gene_association.gonuts.gz
+   source: https://gowiki.tamu.edu/gpad/gene_association.gonuts.gz
    entity_type:
    status: active
    species_code:
