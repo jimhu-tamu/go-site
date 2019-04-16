@@ -16,7 +16,7 @@ datasets:
    dataset: gonuts
    submitter: gonuts
    compression: gzip
-   source: https://gowiki.tamu.edu/gpad/gene_association.gonuts.gz
+   source: https://gowiki.tamu.edu/gpad/CACAO.gpad.gz
    entity_type:
    status: active
    species_code:
