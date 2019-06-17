@@ -10,13 +10,13 @@ datasets:
  -
    id: ecocyc.gaf
    label: "ecocyc gaf file"
-   description: "gaf file for ecocyc from Encyclopedia of E. coli metabolism"
+   description: "gaf file for ecocyc from Encyclopedia of E. coli metabolism and EcoliWiki"
    url: http://current.geneontology.org/annotations/ecocyc.gaf.gz
    type: gaf
    dataset: ecocyc
    submitter: ecocyc
    compression: gzip
-   source: http://viewvc.geneontology.org/viewvc/GO-SVN/trunk/gene-associations/submission/gene_association.ecocyc.gz
+   source: https://ecoliwiki.org/gaf/gene_association.ecocyc.gz
    entity_type:
    status: active
    species_code:
